@@ -62,6 +62,7 @@ typedef enum pageowner {
 static void pageinfo_init(void);
 
 // array of colors for processes
+// array of colors for processes
 static const uint16_t memstate_colors[];
 
 // Memory functions
