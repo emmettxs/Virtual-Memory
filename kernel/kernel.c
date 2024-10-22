@@ -1,5 +1,6 @@
 #include "kernel.h"
 #include "lib.h"
+// this is the included library
 
 // kernel.c
 //
